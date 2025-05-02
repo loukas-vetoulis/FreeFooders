@@ -1,0 +1,23 @@
+{
+  "StoreName": "PizzaWorld",
+  "Latitude": 37.991234,
+  "Longitude": 23.732111,
+  "FoodCategory": "pizzeria",
+  "Stars": 4,
+  "NoOfVotes": 22,
+  "StoreLogo": "https://drive.google.com/uc?export=view&id=1v7GqPjrbj7qYLC42l3XDM55vS8C8Obta",
+  "Products": [
+    {
+      "ProductName": "Pepperoni",
+      "ProductType": "pizza",
+      "Available Amount": 120,
+      "Price": 10.5
+    },
+    {
+      "ProductName": "Margherita",
+      "ProductType": "pizza",
+      "Available Amount": 80,
+      "Price": 8.5
+    }
+  ]
+}

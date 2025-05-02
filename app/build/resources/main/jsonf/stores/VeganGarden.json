@@ -1,0 +1,23 @@
+{
+  "StoreName": "VeganGarden",
+  "Latitude": 37.988888,
+  "Longitude": 23.744444,
+  "FoodCategory": "vegan",
+  "Stars": 4,
+  "NoOfVotes": 25,
+  "StoreLogo": "https://drive.google.com/uc?export=view&id=1f2sOqfga2LhlWMpB2lGnj-CECh6M0goE",
+  "Products": [
+    {
+      "ProductName": "Vegan Burger",
+      "ProductType": "burger",
+      "Available Amount": 90,
+      "Price": 6.5
+    },
+    {
+      "ProductName": "Salad Bowl",
+      "ProductType": "salad",
+      "Available Amount": 70,
+      "Price": 5.0
+    }
+  ]
+}
